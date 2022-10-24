@@ -36,6 +36,8 @@
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=km0313&repo=quantopian&show_owner=true)](https://github.com/km0313/quantopian)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=km0313&repo=Beakjoon&show_owner=true)](https://github.com/km0313/Beakjoon)
+
 </div>
   
 <br>
