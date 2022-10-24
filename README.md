@@ -37,3 +37,5 @@
 </div>
   
 <br>
+
+[![Solved.ac/profile/qutxzzz297](http://mazassumnida.wtf/api/mini/generate_badge?boj=qutxzzz297)](https://solved.ac/profile/qutxzzz297)
