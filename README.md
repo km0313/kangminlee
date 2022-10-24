@@ -32,9 +32,9 @@
 
 <div align="center" style="text-align:center">
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=km0313&repo=study)](https://github.com/km0313/study)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=km0313&repo=study&show_owner=true)](https://github.com/km0313/study)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=km0313&repo=quantopian)](https://github.com/km0313/quantopian)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=km0313&repo=quantopian&show_owner=true)](https://github.com/km0313/quantopian)
 
 </div>
   
