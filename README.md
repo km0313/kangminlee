@@ -1,4 +1,17 @@
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header%20render&fontSize=90&text=KangminLee)
+ 
+<h3 align="center"> Me </h3>
+<p align="center">
+
+💻 BE Engineer   
+👩‍🎓 Hanyang Univ. MATHEMATICS (2017.01~)  
+&nbsp; &nbsp;  Hanyang Univ. MAJOR IN BIG DATA SCIENCE(2023.03~)  
+&nbsp; &nbsp;  Hanyang Univ. ECONOMICS & FINANCE(2023.03~)
+   
+<a href="mailto:ryutot1@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ryutot1@naver.com"/></a>
+
+</p>
+<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
