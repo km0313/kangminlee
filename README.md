@@ -9,7 +9,7 @@
 &nbsp; &nbsp;  Hanyang Univ. ECONOMICS & FINANCE(2023.03~)
    
 <a href="mailto:ryutot1@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ryutot1@naver.com"/></a>
-[![Solved.ac/profile/qutxzzz297](http://mazassumnida.wtf/api/mini/generate_badge?boj=qutxzzz297)](https://solved.ac/profile/qutxzzz297)
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=qutxzzz297)](https://solved.ac/profile/qutxzzz297)
 
 
 </p>
