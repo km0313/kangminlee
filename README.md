@@ -47,7 +47,7 @@
 
 <div align="center" style="text-align:center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=km0313&show_owner=true)](https://github.com/Bull-or-Bear-Upbit-Market-Prediction/BoB-Upbitapi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=km0313&repo=Bull-or-Bear-Upbit-Market-Prediction&show_owner=true)](https://github.com/Bull-or-Bear-Upbit-Market-Prediction/BoB-Upbitapi)
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=km0313&repo=quantopian&show_owner=true)](https://github.com/km0313/quantopian)
  
