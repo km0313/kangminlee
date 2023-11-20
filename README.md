@@ -47,7 +47,7 @@
 
 <div align="center" style="text-align:center">
 
-[![Readme Card](https://drive.google.com/drive/folders/10iQQ3PvnleRqh6phCkDCE2SV5D_7j5dU?usp=sharing)
+[![Readme Card](https://drive.google.com/drive/folders/10iQQ3PvnleRqh6phCkDCE2SV5D_7j5dU?usp=sharing)]
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=km0313&repo=quantopian&show_owner=true)](https://github.com/km0313/quantopian)
  
